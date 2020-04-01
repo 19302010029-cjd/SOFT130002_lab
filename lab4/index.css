@@ -1,0 +1,58 @@
+.navbar-brand{
+    padding: 6px 6px;
+}
+footer{
+    background-color: #333;
+    clear: both;
+}
+.row{
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+footer a{
+    color: white;
+    font-weight: bold;
+}
+div#wechat{
+    float: right;
+    margin-right: 50px;
+}
+p.comment{
+    font-size: 9px;
+    color: grey;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
+div#totop{
+    position: fixed;
+    right: 30px;
+    bottom: 80px;
+}
+div#refresh{
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}
+img#refreshbutton{
+    border-radius: 15px;
+    background-color: transparent;
+}
+img#top{
+    border-radius: 15px;
+    background-color: transparent;
+}
+.panel.panel-default{
+    width: 250px;
+    height: 230px;
+    margin: 30px 35px 30px 150px;
+    background-color: lightgray;
+    float: left;
+}
+.img-rounded{
+    margin-left: 15px;
+}
