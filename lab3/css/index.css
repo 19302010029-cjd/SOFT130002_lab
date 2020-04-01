@@ -1,0 +1,122 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: #000000;
+    background-color: #f6f6f6;
+}
+header {
+    color: #000000;
+    background-color: #ffffff;
+    text-align: center;
+    height: 80px;
+}
+nav#nav{
+    margin: auto 3em;
+    padding-left: 100px;
+    background-color: white;
+}
+.link{
+    padding: 20px;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+    font-weight: normal;
+    float: left;
+}
+.link:hover{
+    color: lightskyblue ;
+}
+a#home{
+    padding: 20px;
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+    border-bottom-color: dodgerblue;
+    border-bottom-width: 3px;
+    border-style: solid;
+}
+a#home:hover{
+    color: lightskyblue ;
+}
+div#right{
+    float: right;
+    padding-top: 20px;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 150px;
+}
+div#header{
+    padding: 15px;
+}
+li.article{
+    display: block;
+    margin-top: 55px!important;
+    padding: 15px;
+}
+div#contents{
+    background-color: #ffffff;
+    margin: 30px 100px;
+}
+div#recommend{
+    font-size: 1.5em;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+h4.title{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+p.like{
+    padding-top: 10px;
+    border-color: black;
+    border-width: 1px;
+    color: deepskyblue;
+}
+p#footer{
+    margin-left: 10px;
+}
+li.article{
+    border-color: aqua;
+    border-style: dotted;
+    border-width: 2px;
+    margin-top: 40px;
+}
+span{
+    color: lightskyblue;
+}
+aside {
+    float:right;
+    margin: 1% 5%;
+    background-color: #ffffff;
+}
+aside a {
+    color: black;
+}
+aside a:hover{
+    color: deepskyblue;
+}
+ul#others {
+    padding: 0;
+    width: 100%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: deepskyblue;
+}
+aside li {
+    display: block;
+    text-align: center;
+    padding: 0.3em 1.5em;
+}
+p{
+    line-height: 25px;
+}
+ol li{
+    line-height: 25px;
+}
+
+
